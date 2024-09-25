@@ -1,0 +1,1 @@
+✌ hellp this project is an developed image captioning model using resnet50 and lstm to ptoduce text captions foe image that describe that image you can use other models for feature extraction or chamge artichecure of main model✨
